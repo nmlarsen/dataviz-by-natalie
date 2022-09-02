@@ -10,4 +10,4 @@ After this program, I hope to use data and research to support arts policy, arts
 # Portfolio
 Check back later for some neat graphs! In the meantime, here is a photo of my two cats, Dee and Dennis.
 
-<img src="https://user-images.githubusercontent.com/112141969/188226491-805d2dcf-607f-4b5d-8b28-9fdad1947443.JPEG" width ="700" height="1000">
+<img src="https://user-images.githubusercontent.com/112141969/188226491-805d2dcf-607f-4b5d-8b28-9fdad1947443.JPEG" width ="750" height="950">
