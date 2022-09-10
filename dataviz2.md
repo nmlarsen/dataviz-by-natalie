@@ -9,8 +9,8 @@ After taking the raw data and reworking it in Flourish, I separated each country
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11133481"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I chose to work with a subset of data for the European Union, highlighting Eastern European countries' government debt.
+I chose to work with a subset of data for the European Union, highlighting Poland's government debt.
 
-In Flourish, I experimented with different types of charts (line graphs, projection maps, bubble charts, and treemaps) before settling on a bar chart. I was having trouble customizing some of the other chart types, so I decided to go with something simple. I set the default color to a light gray and then used the override feature to change each Eastern European country to red. I also set the legend filter to "multi-select" so the user can click on countries they want to compare.
+In Flourish, I experimented with different types of charts (line graphs, projection maps, bubble charts, and treemaps) before settling on a line graph. I was having trouble customizing some of the other chart types, so I decided to go with something simple. I had to rework the dataset in Excel in order to work with the colors the way I wanted to. I set the color palette to a light gray and then used the override feature to change the line representing Poland to red. I also set the legend filter to "multi-select" so the user can click on countries they want to compare.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11147265"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11147607"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
