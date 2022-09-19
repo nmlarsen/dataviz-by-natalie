@@ -57,3 +57,11 @@ I had originally intended on combining the original AFTA visualization with a se
 
 ![Sketch 1](https://user-images.githubusercontent.com/112141969/191099715-510f1492-7406-4cb8-a549-445069b431fa.jpg)
 
+I feared that the data would be presented inaccurately, in that it could be potentially misleading. Funding from the NEA to individual artists and arts organizations is not the only input that contributes to Arts and Culture production to the US economy. I also did not have access to any dataset that listed extra potential economic contribution if NEA funding had kept up with inflation. I determined it would be too complicated to figure it out by hand.
+
+After analyzing the two sketches, I decided the second one would be a little clearer. The bars in the proportional bar graph may cause an illusion and make it appear as though there's more on the page than there actually is. I thought the area chart would present the data over time more smoothly and would look more uniform. 
+
+Next, I took the area chart design and expanded on it. Working with just two data points from the original graph, I wanted to make the sketch as clear as I could.
+
+![Sketch 2](https://user-images.githubusercontent.com/112141969/191099839-402067ad-f0b2-483e-a7b6-156a94f782ac.jpg)
+
