@@ -54,3 +54,6 @@ I don’t feel that there is much to the graph that entices the reader to dig in
 I had originally intended on combining the original AFTA visualization with a second one from the same report, but for multiple reasons, I decided against it after sketching these ideas out. Below are the first two sketches I made, along with the additional graph.
 
 <img width="600" alt="2022-09-14 (1)" src="https://user-images.githubusercontent.com/112141969/191099141-c9dfe3d4-3084-4f04-9623-70570ace7662.png">
+
+![Sketch 1](https://user-images.githubusercontent.com/112141969/191099715-510f1492-7406-4cb8-a549-445069b431fa.jpg)
+
