@@ -77,7 +77,7 @@ I then sought feedback on my second sketch from a different person. It took them
 
 Taking the feedback I had received in mind, I drafted my first iteration of the redesign on Flourish.
 
-<div class="flourish-embed flourish-chart"data-src="visualisation/11203332"><scriptsrc="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11203332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Starting from 1992, I used intervals of two in the x-axis. I felt that made more sense. In my sketch, I used intervals of four. But it wouldn't have worked out with the numbers ending on 2022. I left the y-axis the same as in my sketches, but realized after I had already created it that the currency should be in US dollars.
 
