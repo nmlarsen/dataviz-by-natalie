@@ -65,3 +65,24 @@ Next, I took the area chart design and expanded on it. Working with just two dat
 
 ![Sketch 2](https://user-images.githubusercontent.com/112141969/191099839-402067ad-f0b2-483e-a7b6-156a94f782ac.jpg)
 
+To achieve more clarity, I used complimentary colors to show the distinction between actual funding and inflation-level funding. I simplified the x-axis to show every four years rather than every year. There were some elements of the original graph I decided to keep, like the y-axis. It wasn't overly complex or misleading, and I thought the intervals of $50 million were appropriate. I also kept the title, adjusting it slightly by writing out "National Endowment for the Arts" and removing "1992-2022," since that is apparent in the x-axis. 
+
+### Step 4:
+
+I first sought feedback for the first two sketches I made, even though they were very rough. The person I presented the sketches to took about a minute or two before understanding what they meant. They told me the area chart was easier to understand, and the use of colors made sense, but they were confused by the legend. We had a brief but insightful conversation about clarity in a data visualization. As the person working with the data and knowing the context, it's easy to be ignorant of the perspective of someone seeing the information for the first time. This person didn't even know what the NEA was. So explicitly writing it out rather than using the acronym is crucial for comprehension, especially when that is the subject of the visualization. Their suggestion was to look at the visualization from the perspective of someone who doesn't know anything about federal arts funding.
+
+I then sought feedback on my second sketch from a different person. It took them a much shorter time to absorb and synthesize the information. They told me they liked the graph and found it very easy to understand, and that the use of contrasting colors draws their attention. They noted that their attention was drawn to fact that there were a lot of dips and "ups and downs" in the orange line, but the green line was generally increasing. I took this as a positive because that's precisely what I want the reader to see. Their only suggestion was to change the legend. I had originally written "Actual funding received," and their suggestion was to change it to "Federal funding received" to clarify that the information is about federal appropriations, not funding from multiple sources. 
+
+### Step 5:
+
+Taking the feedback I had received in mind, I drafted my first iteration of the redesign on Flourish.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11203332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Starting from 1992, I used intervals of two in the x-axis. I felt that made more sense. In my sketch, I used intervals of four. But it wouldn't have worked out with the numbers ending on 2022. I left the y-axis the same as in my sketches, but realized after I had already created it that the currency should be in US dollars.
+
+##### Sources:
+1. "2022 Congressional Arts Handbook: Facts & Figures at Your Fingertips," Americans for the Arts, accessed September 17, 2022, https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/legislative-issue-center/congressional-arts-handbook.
+2. Ibid.
+3. Stephen Few, “Data Visualization Effectiveness Profile,” 2017, 11,
+http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf.
