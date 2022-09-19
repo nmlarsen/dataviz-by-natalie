@@ -44,8 +44,4 @@ I did not come across any aspect of the graph that could be misconstrued or misr
 
 Sources: 
 	1. "2022 Congressional Arts Handbook: Facts & Figures at Your Fingertips," Americans for the Arts, accessed September 17, 2022, https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/legislative-issue-center/congressional-arts-handbook.
-	
-	2. Ibid.
-	
-	3. Stephen Few, “Data Visualization Effectiveness Profile,” 2017, 11,
-http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.
+
