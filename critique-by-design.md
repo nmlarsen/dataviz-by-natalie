@@ -48,3 +48,9 @@ This graph is not visually appealing. It's not that it has bad visualization tec
 ##### Engagement: 3
 
 I don’t feel that there is much to the graph that entices the reader to dig into it any deeper. The lack of color and other visual pleasantries make it feel very much like any other traditional graph in a business report. The information in the graph is important for a policymaker or arts advocate to know. But it is presented in a way that makes it feel unimportant. In the context of the entire report, there is nothing unique about the design that makes a reader want to investigate it further.
+
+### Step 3:
+
+I had originally intended on combining the original AFTA visualization with a second one from the same report, but for multiple reasons, I decided against it after sketching these ideas out. Below are the first two sketches I made, along with the additional graph.
+
+<img width="600" alt="2022-09-14 (1)" src="https://user-images.githubusercontent.com/112141969/191099141-c9dfe3d4-3084-4f04-9623-70570ace7662.png">
