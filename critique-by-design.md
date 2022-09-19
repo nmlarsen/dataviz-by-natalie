@@ -39,4 +39,3 @@ I found the graph to be fairly easy to understand. But because of the poor desig
 Truthfulness: 10
 
 I did not come across any aspect of the graph that could be misconstrued or misrepresented. The data used to create the graph is correct and can be found easily through a simple Google search. Furthermore, the dataset for NEA appropriations have been provided on the page just prior to this graph. Upon further analyzing the graph, all the intervals on the x and y-axes were accurate and consistent. Nothing was manipulated in a way to deceive the reader. And the title was not "click-bait-y," but rather communicated the intention of the graph objectively.
-![image](https://user-images.githubusercontent.com/112141969/191055395-9e659781-6f60-4c82-b90c-ad10e1040fc3.png)
