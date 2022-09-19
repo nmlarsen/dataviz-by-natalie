@@ -4,7 +4,7 @@ Step 1:
 
 The data visualization I chose to work with was the graph pictured below from Americans for the Arts (AFTA).
 
-<img width="440" alt="2022-09-14" src="https://user-images.githubusercontent.com/112141969/191055022-6dd3fd9d-67fe-4d22-a81b-89d68ef015e4.png">
+<img width="600" alt="2022-09-14" src="https://user-images.githubusercontent.com/112141969/191055022-6dd3fd9d-67fe-4d22-a81b-89d68ef015e4.png">
 
 
 This graph comes from the 2022 Congressional Arts Handbook, which serves as a guide to arts and cultural policy advocates, giving them key facts, figures, and talking points.1 Graphs and visuals from AFTA are typically very plain and simple, rarely going beyond a white background with black text. But they are always part of a larger story of why the arts are so important in the U.S. In this graph, the message is right in the title, "NEA Funding Fails to Keep Pace With Inflation."2
