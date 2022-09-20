@@ -79,7 +79,15 @@ Taking the feedback I had received in mind, I drafted my first iteration of the 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11203332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Starting from 1992, I used intervals of two in the x-axis. I felt that made more sense. In my sketch, I used intervals of four. But it wouldn't have worked out with the numbers ending on 2022. I left the y-axis the same as in my sketches, but realized after I had already created it that the currency should be in US dollars.
+Starting from 1992, I used intervals of two in the x-axis. I felt that made more sense. In my sketch, I used intervals of four. But it wouldn't have worked out with the years ending on 2022. I left the y-axis the same as in my sketches, but realized after I had already created it that the currency should be in US dollars. I wasn't sure how to achieve this at the time, so I left it as is. My other issue was with the color. I couldn't figure out how to keep the colors from blending in an area chart, and didn't know if I should consider changing them so the green and orange wouldn't blend into a brown-ish hue.
+
+I presented this chart to some peers in class, who gave me some constructive feedback. They appreciated the simplicity of this visualization compared to the original. They liked that I had taken out unneccesary information and added color to the two data points. They also liked the color choices, with green being representative of the ideal outcome and orange being the unfortunate reality. One suggestion they gave to fix the color issue was to change the chart type to a line graph. One person in our group explained that in their mind, an area chart is typically used to show parts to a whole. And that's not exactly what I was doing with this information. They also suggested experimenting with either the data set or the legend settings to see if I could somehow include a "$" to the values. 
+
+Taking their suggestions, I edited the original Flourish chart and constructed the following final version.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11203332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I liked their suggesting for changing it from an area chart to a line chart. I think it simplified it further and takes out an additional unneccesary element that would distract from the message. I was also able to add a "$" to the popups, but was not able to include them on the y-axis.
 
 ##### Sources:
 1. "2022 Congressional Arts Handbook: Facts & Figures at Your Fingertips," Americans for the Arts, accessed September 17, 2022, https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/legislative-issue-center/congressional-arts-handbook.
