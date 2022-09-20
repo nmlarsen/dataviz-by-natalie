@@ -77,6 +77,8 @@ I then sought feedback on my second sketch from a different person. It took them
 
 Taking the feedback I had received in mind, I drafted my first iteration of the redesign on Flourish.
 
+I'd like to note that the federal funding amount if adjusted for inflation was self-generated using the U.S. Inflation Calculator website.<sup>4</sup> That data was not readily available, so I calculated the values myself and checked myself against the original graph to make sure I was as close as possible to the values represented on the line.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11203332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Starting from 1992, I used intervals of two in the x-axis. I felt that made more sense. In my sketch, I used intervals of four. But it wouldn't have worked out with the years ending on 2022. I left the y-axis the same as in my sketches, but realized after I had already created it that the currency should be in US dollars. I wasn't sure how to achieve this at the time, so I left it as is. My other issue was with the color. I couldn't figure out how to keep the colors from blending in an area chart, and didn't know if I should consider changing them so the green and orange wouldn't blend into a brown-ish hue.
@@ -87,10 +89,11 @@ Taking their suggestions, I edited the original Flourish chart and constructed t
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11203332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I liked their suggesting for changing it from an area chart to a line chart. I think it simplified it further and takes out an additional unneccesary element that would distract from the message. I was also able to add a "$" to the popups, but was not able to include them on the y-axis.
+I liked their suggesting for changing it from an area chart to a line chart. I think it simplified it further and takes out an additional unneccesary element that would distract from the message. I was also able to add a "$" to the popups, but was not able to include them on the y-axis. 
 
 ##### Sources:
 1. "2022 Congressional Arts Handbook: Facts & Figures at Your Fingertips," Americans for the Arts, accessed September 17, 2022, https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/legislative-issue-center/congressional-arts-handbook.
 2. Ibid.
 3. Stephen Few, “Data Visualization Effectiveness Profile,” 2017, 11,
 http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf.
+4. "Inflation Calculator," U.S. Inflation Calculator, accessed September 13, 2022, https://www.usinflationcalculator.com/
