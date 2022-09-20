@@ -89,7 +89,9 @@ Taking their suggestions, I edited the original Flourish chart and constructed t
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11203332"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I liked their suggesting for changing it from an area chart to a line chart. I think it simplified it further and takes out an additional unneccesary element that would distract from the message. I was also able to add a "$" to the popups, but was not able to include them on the y-axis. 
+I liked their suggesting for changing it from an area chart to a line chart. I think it simplified it further and takes out an additional unneccesary element that would distract from the message. I experimented with the colors a bit more, making the green slightly lighted in shade to signify it as a more abstract figure, as the values in that data set are more of the "what if" dream scenario. I was also able to add a "$" to the popups, but was not able to include them on the y-axis. 
+
+The final critique the group gave was to call out the $178 million difference in 2022, since it was pointed out in the original graph. I thought about the best way to accomplish this. I wanted to avoid adding text to the graph itself, as I liked how clean and simple it now looked. So I took the line of text that appeared in the AFTA report above the graph and reworded it to convey its significance in fewer words.
 
 ##### Sources:
 1. "2022 Congressional Arts Handbook: Facts & Figures at Your Fingertips," Americans for the Arts, accessed September 17, 2022, https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/legislative-issue-center/congressional-arts-handbook.
