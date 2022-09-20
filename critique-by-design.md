@@ -98,4 +98,4 @@ The final critique the group gave was to call out the $178 million difference in
 2. Ibid.
 3. Stephen Few, “Data Visualization Effectiveness Profile,” 2017, 11,
 http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf.
-4. "Inflation Calculator," U.S. Inflation Calculator, accessed September 13, 2022, https://www.usinflationcalculator.com/
+4. "Inflation Calculator," U.S. Inflation Calculator, accessed September 13, 2022, https://www.usinflationcalculator.com/.
