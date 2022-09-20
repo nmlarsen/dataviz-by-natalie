@@ -79,7 +79,7 @@ Taking the feedback I had received in mind, I drafted my first iteration of the 
 
 I'd like to note that the federal funding amount if adjusted for inflation was self-generated using the U.S. Inflation Calculator website.<sup>4</sup> That data was not readily available, so I calculated the values myself and checked myself against the original graph to make sure I was as close as possible to the values represented on the line.
 
-<img width="844" alt="2022-09-20" src="https://user-images.githubusercontent.com/112141969/191324138-e5878cd7-2136-4cec-a078-ea37cc5eb54b.png">
+<img width="831" alt="2022-09-20" src="https://user-images.githubusercontent.com/112141969/191324449-2ce2ac67-b9ab-40a5-bbe0-3df30b0ab9c0.png">
 
 Starting from 1992, I used intervals of two in the x-axis. I felt that made more sense. In my sketch, I used intervals of four. But it wouldn't have worked out with the years ending on 2022. I left the y-axis the same as in my sketches, but realized after I had already created it that the currency should be in US dollars. I wasn't sure how to achieve this at the time, so I left it as is. My other issue was with the color. I couldn't figure out how to keep the colors from blending in an area chart, and didn't know if I should consider changing them so the green and orange wouldn't blend into a brown-ish hue.
 
