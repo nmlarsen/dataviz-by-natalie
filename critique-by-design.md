@@ -6,16 +6,16 @@ The data visualization I chose to work with was the graph pictured below from Am
 
 <img width="600" alt="2022-09-14" src="https://user-images.githubusercontent.com/112141969/191055022-6dd3fd9d-67fe-4d22-a81b-89d68ef015e4.png">
 
-This graph comes from the 2022 Congressional Arts Handbook, which serves as a guide to arts and cultural policy advocates, giving them key facts, figures, and talking points.<sup>1</sup> Graphs and visuals from AFTA are typically very plain and simple, rarely going beyond a white background with black text. But they are always part of a larger story of why the arts are so important in the U.S. In this graph, the message is right in the title, "NEA Funding Fails to Keep Pace With Inflation."<sup>2</sup>
+This graph comes from the 2022 Congressional Arts Handbook, which serves as a guide for arts and cultural policy advocates, giving them key facts, figures, and talking points.<sup>1</sup> Graphs and visuals from AFTA are typically very plain and simple, rarely going beyond a white background with black text. But they are always part of a larger story of why the arts are so important in the U.S. In this graph, the message is right in the title, "NEA Funding Fails to Keep Pace With Inflation."<sup>2</sup>
 
-I wanted to work with this graph and accompanying data because arts policy and advocacy has become my target focus since starting graduate school at Carnegie Mellon. The arts are often the first to get their budgets cut. The National Endowment for the Arts (NEA) does incredible work for arts programs, educators, and practitioners throughout the United States, but has historically been underfunded. As a result, students, teachers, artists, audiences, and arts organizations suffer. As we navigate our way through a post-pandemic world, funding for the arts has become even more crucial. Investment in the arts has shown significant economic benefits time and time again. I firmly believe in the power of the arts to provide healing and hope, and to help the US economy recover from the impacts of COVID-19. I support the work AFTA does. However, much of their visual elements, from their data visualizations to their website content, can be improved. 
+I wanted to work with this graph and accompanying data because arts & cultural policy and advocacy have become my target focuses since starting graduate school at Carnegie Mellon. Historically in the United States, the arts are often the first to get their budgets cut. The National Endowment for the Arts (NEA) provides support through grants, research, and advocacy work for arts organizations, independent artists, educators, and practitioners throughout the United States, but has historically been underfunded. As a result, their ability to serve the arts in this country is greatly limited. As we navigate our way through a post-pandemic world, funding for the arts has become even more crucial. Investment in the arts has shown significant economic benefits time and time again. I firmly believe in the power of the arts to provide healing and hope, and to help the US economy recover from the impacts of COVID-19. Americans for the Arts is a national arts advocacy organization that seeks to showcase the value of the arts in America.<sup>3</sup> I support the work AFTA does. However, much of their visual elements, from their data visualizations to their website content, can be improved. 
 
 Since only the data on NEA appropriations was provided, I determined the amounts adjusted for inflation using the U.S. Inflation Calculator, double-checking my calculations against the graph provided to ensure its accuracy. 
 
 
 ### Step 2:
 
-Using Stephen Few's Data Visualization Effectiveness Profile<sup>3</sup>, I ranked each element the following:
+Using Stephen Few's Data Visualization Effectiveness Profile<sup>4</sup>, I ranked each element the following:
 
 
 #### Usefulness : 9
@@ -77,7 +77,7 @@ I then sought feedback on my second sketch from a different person. It took them
 
 Taking the feedback I had received in mind, I drafted my first iteration of the redesign on Flourish.
 
-I'd like to note that the federal funding amount if adjusted for inflation was self-generated using the U.S. Inflation Calculator website.<sup>4</sup> That data was not readily available, so I calculated the values myself and checked myself against the original graph to make sure I was as close as possible to the values represented on the line.
+I'd like to note that the federal funding amount if adjusted for inflation was self-generated using the U.S. Inflation Calculator website.<sup>5</sup> That data was not readily available, so I calculated the values myself and checked myself against the original graph to make sure I was as close as possible to the values represented on the line.
 
 <img width="831" alt="2022-09-20" src="https://user-images.githubusercontent.com/112141969/191324449-2ce2ac67-b9ab-40a5-bbe0-3df30b0ab9c0.png">
 
@@ -96,6 +96,7 @@ The final critique the group gave was to call out the $178 million difference in
 ##### Sources:
 1. "2022 Congressional Arts Handbook: Facts & Figures at Your Fingertips," Americans for the Arts, accessed September 17, 2022, https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/legislative-issue-center/congressional-arts-handbook.
 2. Ibid.
-3. Stephen Few, “Data Visualization Effectiveness Profile,” 2017, 11,
+3. "About Americans for the Arts," Americans for the Arts, accessed September 20, 2022, https://www.americansforthearts.org/about-americans-for-the-arts.
+4. Stephen Few, “Data Visualization Effectiveness Profile,” 2017, 11,
 http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf.
-4. "Inflation Calculator," U.S. Inflation Calculator, accessed September 13, 2022, https://www.usinflationcalculator.com/.
+5. "Inflation Calculator," U.S. Inflation Calculator, accessed September 13, 2022, https://www.usinflationcalculator.com/.
