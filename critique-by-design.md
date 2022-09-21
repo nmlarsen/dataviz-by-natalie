@@ -15,7 +15,7 @@ Americans for the Arts (AFTA) is a national arts advocacy organization that seek
 
 ### Step 2:
 
-Using Stephen Few's Data Visualization Effectiveness Profile<sup>4</sup>, I ranked each element the following:
+Using Stephen Few's Data Visualization Effectiveness Profile,<sup>4</sup> I ranked each element the following:
 
 
 #### Usefulness : 9
