@@ -4,7 +4,7 @@
 
 The data visualization I chose to work with was the graph pictured below from Americans for the Arts.
 
-<img width="600" alt="2022-09-14" src="https://user-images.githubusercontent.com/112141969/191055022-6dd3fd9d-67fe-4d22-a81b-89d68ef015e4.png">
+<img width="800" alt="2022-09-14" src="https://user-images.githubusercontent.com/112141969/191055022-6dd3fd9d-67fe-4d22-a81b-89d68ef015e4.png">
 
 This graph comes from the 2022 Congressional Arts Handbook, which serves as a guide for arts and cultural policy advocates, giving them key facts, figures, and talking points.<sup>1</sup> Graphs and visuals from AFTA are typically very plain and simple, rarely going beyond a white background with black text. But they are always part of a larger story of why the arts are so important in the U.S. In this graph, the message is right in the title, "NEA Funding Fails to Keep Pace With Inflation."<sup>2</sup>
 
@@ -51,7 +51,7 @@ I don’t feel that there is much to the graph that entices the reader to dig in
 
 I had originally intended on combining the appropriations visualization with a second one from the same report, but for multiple reasons, I decided against it after sketching these ideas out. Below are the first two sketches I made, along with the additional graph.
 
-<img width="600" alt="2022-09-14 (1)" src="https://user-images.githubusercontent.com/112141969/191099141-c9dfe3d4-3084-4f04-9623-70570ace7662.png">
+<img width="800" alt="2022-09-14 (1)" src="https://user-images.githubusercontent.com/112141969/191099141-c9dfe3d4-3084-4f04-9623-70570ace7662.png">
 
 ![Sketch 1](https://user-images.githubusercontent.com/112141969/191099715-510f1492-7406-4cb8-a549-445069b431fa.jpg)
 
