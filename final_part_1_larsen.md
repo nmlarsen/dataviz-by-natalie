@@ -39,7 +39,7 @@ Below is a complilation of the data I intend to use, at least so far. I plan on 
 
 ![Data](https://user-images.githubusercontent.com/112141969/192305480-0ac479b9-56f3-4d4e-a430-5d8b409a8847.jpg)
 
-Additionally, I have included a publically accessible Google Sheet in case there are any changes or additions: https://docs.google.com/spreadsheets/d/1sM2aU3STtZp0BSNnHBKjgApe9CHwJXGIYEbgtS6KMvo/edit?usp=sharing
+Additionally, I have included a publically accessible [Google Sheet]([url](https://docs.google.com/spreadsheets/d/1sM2aU3STtZp0BSNnHBKjgApe9CHwJXGIYEbgtS6KMvo/edit?usp=sharing)) in case there are any changes or additions: 
 
 ### Method and medium
 I plan on using Dillinger.io to begin building out the text portions of the final project. This will allow me to easily compare the markdown code I'm using to the output. I will create all visuals on Flourish and may use Tableau if I feel comfortable enough. Flourish has been very user-friendly for someone who doesn't have much experience with creating data visualizations from scratch. However, if I feel that Tableau could accomplish something Flourish could not, such as creating map charts in a simpler way, I will make that adjustment as needed. The final project will be presented on ShortHand.com. 
