@@ -24,9 +24,13 @@ Next, I want to focus on the benefits of arts education for students, particular
 
 To show that the majority of Americans believe in an arts education, I want to display the following chart to go along with the fact that 90% of Americans believe the arts should be taught in schools. Although I may change it to represent the 91% of Americans who believe the arts are part of a well-rounded education. This fact seems to be more compelling and supports my key message more.
 
--image-
+![Graph2](https://user-images.githubusercontent.com/112141969/192303395-2f83246a-1585-4077-af5c-215de430d5d4.jpg)
 
 Finally, I want to showcase the data that supports the implementation of STEAM education in the US. The two keys facts I want to present are that students who participate in STEAM learning are 21% more likely to attend college. And 29% of students are more likely to apply for postsecondary education than their non-arts peers.
+
+-image-
+
+![Graph](https://user-images.githubusercontent.com/112141969/192303584-2270d5a6-db13-4310-a04c-c25b7eac5c58.jpg)
 
 There is also some qualitative data that I want to showcase through text. 
 
