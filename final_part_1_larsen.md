@@ -26,9 +26,7 @@ To show that the majority of Americans believe in an arts education, I want to d
 
 ![Graph2](https://user-images.githubusercontent.com/112141969/192303395-2f83246a-1585-4077-af5c-215de430d5d4.jpg)
 
-Finally, I want to showcase the data that supports the implementation of STEAM education in the US. The two keys facts I want to present are that students who participate in STEAM learning are 21% more likely to attend college. And 29% of students are more likely to apply for postsecondary education than their non-arts peers.
-
--image-
+Finally, I want to showcase the data that supports the implementation of STEAM education and general academic achievement in the US. The two keys facts I want to present are students who participate in the arts are 4 times more likely to participate in a math or science fair, and that socioeconomically disadvantaged high school students who participate in the arts have a dropout rate of 4%, compared to their peers who do not participate in the arts, who have a dropout rate of 22%.
 
 ![Graph](https://user-images.githubusercontent.com/112141969/192303584-2270d5a6-db13-4310-a04c-c25b7eac5c58.jpg)
 
@@ -38,7 +36,6 @@ There is also some qualitative data that I want to showcase through text.
 Below is a complilation of the data I intend to use, at least so far. I plan on incorporating this data into my story arc a few different ways. First, I want to emphasize the fact that STEM education curricula are not enough. Students are clearly not prepared enough for the rigors of studying a STEM area in college, which leaves them ill-prepared for when they graduate and enter the workforce. Second, I want to show how the incorporation of the arts into a K-12 education increases students' academic performance and leads to higher levels of college applicants and attendees. Finally, I want to show how incorporating the arts in the the STEM model leads to better outcomes than the STEM approach alone. Although it's difficult to quantify levels of creativity, innovation, critical thinking, and problem-solving skills, a case can be made for STEAM by simply showing that what has been implemented in public education since the No Child Left Behind Act has not worked.
 
 ![Data](https://user-images.githubusercontent.com/112141969/192321876-84203f68-776e-4156-b568-0a7c6239b5da.jpg)
-
 
 
 Additionally, I have included a publically accessible [Google Sheet]([url](https://docs.google.com/spreadsheets/d/1sM2aU3STtZp0BSNnHBKjgApe9CHwJXGIYEbgtS6KMvo/edit?usp=sharing)) in case there are any changes or additions.
