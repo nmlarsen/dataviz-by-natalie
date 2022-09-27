@@ -22,9 +22,8 @@ I then want connect that data to the arts by showing that lack of support for ar
 
 Next, I want to focus on the benefits of arts education for students, particularly how they enhance students' academic performance, college-readiness, critial thinking, creativity, and problem-solving skills. The last point will likely be explained in text rather than visualized in a graph, as this information is difficult to quantify.
 
-To show that the majority of Americans believe in an arts education, I want to display the following chart to go along with the fact that 90% of Americans believe the arts should be taught in schools. Although I may change it to represent the 91% of Americans who believe the arts are part of a well-rounded education. This fact seems to be more compelling and supports my key message more. I may also change the chart type to an arc, as I'm not really sure how to render this image in a data visualization software.
-
-![Graph2](https://user-images.githubusercontent.com/112141969/192303395-2f83246a-1585-4077-af5c-215de430d5d4.jpg)
+To show that the majority of Americans believe in an arts education, I want to display the following chart to go along with the facts that 91% of Americans who believe the arts are part of a well-rounded education, and that 90% of Americans believe the arts should be taught in schools.
+-image-
 
 Finally, I want to showcase the data that supports the implementation of STEAM education and general academic achievement in the US. The two keys facts I want to present are students who participate in the arts are 4 times more likely to participate in a math or science fair, and that socioeconomically disadvantaged high school students who participate in the arts have a dropout rate of 4%, compared to their peers who do not participate in the arts, who have a dropout rate of 22%. I want to be sure to show that regardless of location and level of advantage/disadvantage, students benefit from arts education being added to their schools' curriculum.
 
@@ -39,7 +38,7 @@ My call to action for readers will be to simply understand the benefits of the a
 ### Data
 Below is a complilation of the data I intend to use, at least so far. I plan on incorporating this data into my story arc a few different ways. First, I want to emphasize the fact that STEM education curricula are not enough. Students are clearly not prepared enough for the rigors of studying a STEM area in college, which leaves them ill-prepared for when they graduate and enter the workforce. Second, I want to show how the incorporation of the arts into a K-12 education increases students' academic performance and leads to higher levels of college applicants and attendees. Finally, I want to show how incorporating the arts in the the STEM model leads to better outcomes than the STEM approach alone. Although it's difficult to quantify levels of creativity, innovation, critical thinking, and problem-solving skills, a case can be made for STEAM by simply showing that what has been implemented in public education since the No Child Left Behind Act has not worked.
 
-![Data](https://user-images.githubusercontent.com/112141969/192321876-84203f68-776e-4156-b568-0a7c6239b5da.jpg)
+
 
 
 Additionally, I have included a publically accessible [Google Sheet]([url](https://docs.google.com/spreadsheets/d/1sM2aU3STtZp0BSNnHBKjgApe9CHwJXGIYEbgtS6KMvo/edit?usp=sharing)) in case there are any changes or additions.
@@ -48,9 +47,6 @@ Additionally, I have included a publically accessible [Google Sheet]([url](https
 I plan on using Dillinger.io to begin building out the text portions of the final project. This will allow me to easily compare the markdown code I'm using to the output. I will create all visuals on Flourish and may use Tableau if I feel comfortable enough. Flourish has been very user-friendly for someone who doesn't have much experience with creating data visualizations from scratch. However, if I feel that Tableau could accomplish something Flourish could not, such as creating map charts in a simpler way, I will make that adjustment as needed. I also plan to utilize Canva and Unsplash for public domain images and any other graphics I may include. The final project will be presented on ShortHand.com. 
 
 ### Peer feedback from 9/27/22
-When I presented my outline in class, I was told that I may be trying to squeeze in a lot of information that may circumvent the message of the story. Since a lot of my data supports arts education in schools, the key takeaway may be that arts should be supported in public schools due to its benefits on academic performance. 
+When I presented my outline in class, I was told that I may be trying to squeeze in a lot of information that may circumvent the message of the story, and they didn't fully get what my message was. One question that was presented was whether I was trying to focus on college attendence or academic performance in high school. Their suggestions were then to just focus on arts education on its own rather than STEAM vs. STEM. I feel as though arts education is a trite topic and that my topic presentes a slightly different angle. So, I decided to "mindmap" all my ideas and data points in Miro to see if I can achieve more clarity.
 
-My new outline may follow these keys points:
--Addressing high school academic performance and a general deviation from the arts as a result of the No Child Left Behind Act
--The benefits of requiring the arts in a high school curriculum - improved academic performance overall, higher engagement in school, higher levels of college application and attendence, higher levels of high school graduation.
--The call to action being that advocacy for arts education and reaching out to public officials is crucial for instilling the arts in all schools. 
+-image-
