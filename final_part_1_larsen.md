@@ -51,6 +51,6 @@ I plan on using Dillinger.io to begin building out the text portions of the fina
 When I presented my outline in class, I was told that I may be trying to squeeze in a lot of information that may circumvent the message of the story. Since a lot of my data supports arts education in schools, the key takeaway may be that arts should be supported in public schools due to its benefits on academic performance. 
 
 My new outline may follow these keys points:
-Addressing high school academic performance and a general deviation from the arts as a result of the No Child Left Behind Act
-The benefits of requiring the arts in a high school curriculum - improved academic performance overall, higher engagement in school, higher levels of college application and attendence, higher levels of high school graduation.
-The call to action being that advocacy for arts education and reaching out to public officials is crucial for instilling the arts in all schools. 
+-Addressing high school academic performance and a general deviation from the arts as a result of the No Child Left Behind Act
+-The benefits of requiring the arts in a high school curriculum - improved academic performance overall, higher engagement in school, higher levels of college application and attendence, higher levels of high school graduation.
+-The call to action being that advocacy for arts education and reaching out to public officials is crucial for instilling the arts in all schools. 
