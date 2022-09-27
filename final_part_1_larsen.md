@@ -23,7 +23,8 @@ I then want connect that data to the arts by showing that lack of support for ar
 Next, I want to focus on the benefits of arts education for students, particularly how they enhance students' academic performance, college-readiness, critial thinking, creativity, and problem-solving skills. The last point will likely be explained in text rather than visualized in a graph, as this information is difficult to quantify.
 
 To show that the majority of Americans believe in an arts education, I want to display the following chart to go along with the facts that 91% of Americans who believe the arts are part of a well-rounded education, and that 90% of Americans believe the arts should be taught in schools.
--image-
+
+![Graph4](https://user-images.githubusercontent.com/112141969/192607591-a2c31d3b-6270-4c61-91fd-eee2b0b5a3de.jpg)
 
 Finally, I want to showcase the data that supports the implementation of STEAM education and general academic achievement in the US. The two keys facts I want to present are students who participate in the arts are 4 times more likely to participate in a math or science fair, and that socioeconomically disadvantaged high school students who participate in the arts have a dropout rate of 4%, compared to their peers who do not participate in the arts, who have a dropout rate of 22%. I want to be sure to show that regardless of location and level of advantage/disadvantage, students benefit from arts education being added to their schools' curriculum.
 
