@@ -51,4 +51,3 @@ I plan on using Dillinger.io to begin building out the text portions of the fina
 When I presented my outline in class, I was told that I may be trying to squeeze in a lot of information that may circumvent the message of the story. Since a lot of my data supports arts education in schools, the key takeaway may be that arts should be supported in public schools due to its benefits on academic performance. 
 
 My new outline may follow these keys points:
-- 
