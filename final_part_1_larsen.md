@@ -46,3 +46,9 @@ Additionally, I have included a publically accessible [Google Sheet]([url](https
 
 ### Method and medium
 I plan on using Dillinger.io to begin building out the text portions of the final project. This will allow me to easily compare the markdown code I'm using to the output. I will create all visuals on Flourish and may use Tableau if I feel comfortable enough. Flourish has been very user-friendly for someone who doesn't have much experience with creating data visualizations from scratch. However, if I feel that Tableau could accomplish something Flourish could not, such as creating map charts in a simpler way, I will make that adjustment as needed. I also plan to utilize Canva and Unsplash for public domain images and any other graphics I may include. The final project will be presented on ShortHand.com. 
+
+### Peer feedback from 9/27/22
+When I presented my outline in class, I was told that I may be trying to squeeze in a lot of information that may circumvent the message of the story. Since a lot of my data supports arts education in schools, the key takeaway may be that arts should be supported in public schools due to its benefits on academic performance. 
+
+My new outline may follow these keys points:
+- 
