@@ -14,7 +14,7 @@ The first sketches are designed to show the failure of STEM education on its own
 
 ![Graph3](https://user-images.githubusercontent.com/112141969/192301815-ec2e9ef1-a87c-4cae-9592-998109b16168.jpg)
 
-I will also explain in text that the demand for workers in STEM jobs is growing (an 8.8% expected growth in STEM jobs is predicted), but the readiness of students upon entering a STEM field is less than ideal. I want to quote a Harvard Gazette article that states that a revitilization of of the vision of STEM education is desperately needed in the US, especially in low-income/socio-economically disadvantaged schools, both in urban and rural areas of the country. I also want to mention the detrimental effect of the No Child Left Behind Act on public education due to its heavy focus on standardized testing and core curriculum that often excluded the arts.
+I will also explain in text that the demand for workers in STEM jobs is growing (an 11% expected growth in STEM jobs is predicted between 2020-2030), but the readiness of students upon entering a STEM field is less than ideal. I want to quote a Harvard Gazette article that states that a revitilization of of the vision of STEM education is desperately needed in the US, especially in low-income/socio-economically disadvantaged schools, both in urban and rural areas of the country. I also want to mention the detrimental effect of the No Child Left Behind Act on public education due to its heavy focus on standardized testing and core curriculum that often excluded the arts.
 
 I then want connect that data to the arts by showing that lack of support for arts programs and a failure to prioritize arts education exists and may be a partial cause for this issue. Below is an initial chart visualization the 26 states (including DC) that currently list and arts requirement for graduating high school.
 
@@ -28,9 +28,10 @@ To show that the majority of Americans believe in an arts education, I want to d
 
 Finally, I want to showcase the data that supports the implementation of STEAM education and general academic achievement in the US. The two keys facts I want to present are students who participate in the arts are 4 times more likely to participate in a math or science fair, and that socioeconomically disadvantaged high school students who participate in the arts have a dropout rate of 4%, compared to their peers who do not participate in the arts, who have a dropout rate of 22%. I want to be sure to show that regardless of location and level of advantage/disadvantage, students benefit from arts education being added to their schools' curriculum.
 
-Other statistics I want to include here are that arts-participating students score, on average, 98 points highter on the SAT than their non-arts-participating peers.
-
 ![Graph](https://user-images.githubusercontent.com/112141969/192303584-2270d5a6-db13-4310-a04c-c25b7eac5c58.jpg)
+
+![Graph5](https://user-images.githubusercontent.com/112141969/192607900-22583791-52f8-4fda-8ffe-7af07934e46b.jpg)
+
 
 There is also some qualitative data that I want to showcase through text. I want to bring up how underreprested Black, Hispanic, and women workers are in many STEM fields, and how the arts can be used as a catalyst to encourage diversification because of its emphasis on collaborative efforts and empathy-building.
 
