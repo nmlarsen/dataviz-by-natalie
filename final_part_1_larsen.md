@@ -40,8 +40,7 @@ My call to action for readers will be to simply understand the benefits of the a
 ### Data
 Below is a complilation of the data I intend to use, at least so far. I plan on incorporating this data into my story arc a few different ways. First, I want to emphasize the fact that STEM education curricula are not enough. Students are clearly not prepared enough for the rigors of studying a STEM area in college, which leaves them ill-prepared for when they graduate and enter the workforce. Second, I want to show how the incorporation of the arts into a K-12 education increases students' academic performance and leads to higher levels of college applicants and attendees. Finally, I want to show how incorporating the arts in the the STEM model leads to better outcomes than the STEM approach alone. Although it's difficult to quantify levels of creativity, innovation, critical thinking, and problem-solving skills, a case can be made for STEAM by simply showing that what has been implemented in public education since the No Child Left Behind Act has not worked.
 
-![Data](https://user-images.githubusercontent.com/112141969/192608336-89218843-f642-41c9-88d3-65459a33c5c7.jpg)
-
+![Data](https://user-images.githubusercontent.com/112141969/192608705-3818456c-9230-48ba-aa28-8c40424a91c4.jpg)
 
 Additionally, I have included a publically accessible [Google Sheet]([url](https://docs.google.com/spreadsheets/d/1sM2aU3STtZp0BSNnHBKjgApe9CHwJXGIYEbgtS6KMvo/edit?usp=sharing)) in case there are any changes or additions.
 
