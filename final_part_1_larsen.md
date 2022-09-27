@@ -50,4 +50,4 @@ I plan on using Dillinger.io to begin building out the text portions of the fina
 ### Peer feedback from 9/27/22
 When I presented my outline in class, I was told that I may be trying to squeeze in a lot of information that may circumvent the message of the story, and they didn't fully get what my message was. One question that was presented was whether I was trying to focus on college attendence or academic performance in high school. Their suggestions were then to just focus on arts education on its own rather than STEAM vs. STEM. I feel as though arts education is a trite topic and that my topic presentes a slightly different angle. So, I decided to "mindmap" all my ideas and data points in Miro to see if I can achieve more clarity.
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPSto8k0=/?pres=1&frameId=3458764534557938620&embedId=456692741405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://miro.com/app/embed/uXjVPSto8k0=/?pres=1&frameId=3458764534557938620&embedId=970423941275" frameborder="0" scrolling="no" allowfullscreen></iframe>
