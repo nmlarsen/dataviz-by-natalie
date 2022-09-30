@@ -10,13 +10,9 @@ When looking for inspiration for the design, I began by looking at infographics 
 
 ![stem-vs-steam-01-960x1945](https://user-images.githubusercontent.com/112141969/193358778-8b3baf62-59a2-4058-876c-8003c95ef141.jpg)![steam image](https://user-images.githubusercontent.com/112141969/193358787-c2a98c44-df41-47cc-9a43-543740bda687.jpg)![datavisualizationinfographicvenndiagram](https://user-images.githubusercontent.com/112141969/193358817-1710d991-bd14-42e2-bcbb-cb569482fe1c.png)
 
-![ed infographic](https://user-images.githubusercontent.com/112141969/193358802-5cd588b1-7943-4e38-8e4f-752eb2117323.jpg)![Uploading datavisualizationinfographicvenndiagram.png…]()
+![ed infographic](https://user-images.githubusercontent.com/112141969/193358802-5cd588b1-7943-4e38-8e4f-752eb2117323.jpg)
 
-
-
-
-
-I noticed that I favored the lighter blue color in the graphics above, so I experimented with a color palette using Adobe Color. I also knew I wanted a shade of red to use conservatively for drawing attention to certain points, and a shade of gray to subdue unimportant bits of information.
+I then experimented with several color palettes using Adobe Color. After finding an image I was considering using for the title, I extracted the color scheme from it and made some adjustments. I knew I wanted to include a shade of red to use for drawing attention to certain points, a lighter shade of gray to subdue unimportant bits of information.
 
 
 ## User Research
