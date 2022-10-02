@@ -2,7 +2,12 @@
 
 ## Wireframe & Storyboard
 
+I completed my wireframe/storyboard in ShortHand as a draft of the final project.
+
 ShortHand Preview: https://preview.shorthand.com/1mLP5i7kOCGWdMPk
+
+## User Research
+
 
 ## Moodboard
 
@@ -13,7 +18,3 @@ When looking for inspiration for the design, I began by looking at infographics 
 ![ed infographic](https://user-images.githubusercontent.com/112141969/193358802-5cd588b1-7943-4e38-8e4f-752eb2117323.jpg)
 
 I then experimented with several color palettes using Adobe Color. After finding an image I was considering using for the title, I extracted the color scheme from it and made some adjustments. I knew I wanted to include a shade of red to use for drawing attention to certain points, a lighter shade of gray to subdue unimportant bits of information.
-
-
-## User Research
-
