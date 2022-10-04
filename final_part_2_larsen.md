@@ -6,6 +6,8 @@ I completed my wireframe/storyboard in ShortHand as a draft of the final project
 
 Preview link: https://preview.shorthand.com/1mLP5i7kOCGWdMPk
 
+NOTE: Text has not been finalized and citations still need to be added.
+
 The main areas of focus are:
 - Why STEM alone has not been effective in US public schools
 - The benefits of arts education alone
@@ -16,6 +18,7 @@ The main areas of focus are:
 I adjusted my Miro board slightly from part 1 to expand on the call to action and how it might differ among audiences.
 
 <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPSto8k0=/?pres=1&frameId=3458764534557938620&embedId=270496895690" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 
 ## User Research
 
