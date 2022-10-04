@@ -2,7 +2,9 @@
 
 ## Wireframe & Storyboard
 
-I completed my wireframe/storyboard in [ShortHand]([url](https://preview.shorthand.com/1mLP5i7kOCGWdMPk) as a draft of the final project.
+I completed my wireframe/storyboard in ShortHand as a draft of the final project.
+
+https://preview.shorthand.com/1mLP5i7kOCGWdMPk
 
 The main areas of focus are:
 - Why STEM alone has not been effective in US public schools
