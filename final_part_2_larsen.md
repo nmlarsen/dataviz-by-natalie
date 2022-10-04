@@ -8,6 +8,11 @@ ShortHand Preview: https://preview.shorthand.com/1mLP5i7kOCGWdMPk
 
 ## User Research
 
+I conducted user research by formulating some questions and then asking for feedback from three individuals. 
+
+![User feedback pt  2](https://user-images.githubusercontent.com/112141969/193873897-327c64ec-6ad8-4d01-8e87-ff7e484cbac1.jpg)
+
+
 
 ## Moodboard
 
