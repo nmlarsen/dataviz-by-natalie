@@ -13,6 +13,8 @@ The main areas of focus are:
 - The current state of US government support for arts education
 - The call to action/next steps
 
+I adjusted my Miro board slightly from part 1 to expand on the call to action and how it might differ among audiences.
+
 <iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPSto8k0=/?pres=1&frameId=3458764534557938620&embedId=270496895690" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## User Research
@@ -25,7 +27,7 @@ Some additional feedback I received after the fact was including a navigation ba
 
 ## Moodboard
 
-When looking for inspiration for the design, I began by looking at infographics on STEAM education. Many infographics, visualizations, websites, and other images designed around the topic of education often feel juvenile. In my opinion, there are too many images, and colors, and not enough of a focus on clarity of the information being presented. In order for a reader to take this topic seriously, I want the design to appear serious. Below are some graphic examples I found that I liked for their color scheme, simplicity, and font.
+When looking for inspiration for the design, I began by looking at infographics on STEAM education. Personally, I feel that many infographics, visualizations, websites, and other images designed around the topic of education often feel juvenile. There are often too many images and colors, and not enough of a focus on clarity of the information being presented. In order for a reader to take this topic seriously, I want the design to appear serious. Below are some graphic examples I found that I liked for their color scheme, simplicity, font, and overall style.
 
 ![stem-vs-steam-01-960x1945](https://user-images.githubusercontent.com/112141969/193358778-8b3baf62-59a2-4058-876c-8003c95ef141.jpg)![steam image](https://user-images.githubusercontent.com/112141969/193358787-c2a98c44-df41-47cc-9a43-543740bda687.jpg)![datavisualizationinfographicvenndiagram](https://user-images.githubusercontent.com/112141969/193358817-1710d991-bd14-42e2-bcbb-cb569482fe1c.png)
 
@@ -38,6 +40,3 @@ I then experimented with several color palettes using Adobe Color. After finding
 I settled on the follow color palette after extracting the color scheme from an Unsplash image I thought would make a good title page image. I adjusted it slightly and added a darker shade of red intended to be used for calling out significant information.
 
 ![AdobeColor-theme from image 1](https://user-images.githubusercontent.com/112141969/193878327-c59fcb5a-1f2b-4603-9765-d090666ca010.jpeg)
-
-
-
