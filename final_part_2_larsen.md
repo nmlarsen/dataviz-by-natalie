@@ -6,13 +6,18 @@ I completed my wireframe/storyboard in ShortHand as a draft of the final project
 
 ShortHand Preview: https://preview.shorthand.com/1mLP5i7kOCGWdMPk
 
+The main areas of focus are:
+- Why STEM alone has not been effective in US public schools
+- The benefits of arts education alone
+- 
+
 ## User Research
 
 I conducted user research by formulating some questions and then asking for feedback from three individuals. 
 
 ![User feedback pt  2](https://user-images.githubusercontent.com/112141969/193873897-327c64ec-6ad8-4d01-8e87-ff7e484cbac1.jpg)
 
-
+Some additional feedback I received after the fact was including a navigation bar so readers can distinguish between the different sections since there does appear to be a lot of information. This would make it more digestible, especially for someone not as familiar with STEAM or arts education. 
 
 ## Moodboard
 
