@@ -11,7 +11,7 @@ The main areas of focus are:
 - The current state of US government support for arts education
 - The call to action/next steps
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPSto8k0=/?moveToViewport=-517,-211,3095,1770&embedId=670417591991" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPSto8k0=/?pres=1&frameId=3458764534557938620&embedId=270496895690" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## User Research
 
