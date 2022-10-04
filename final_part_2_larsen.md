@@ -9,7 +9,11 @@ ShortHand Preview: https://preview.shorthand.com/1mLP5i7kOCGWdMPk
 The main areas of focus are:
 - Why STEM alone has not been effective in US public schools
 - The benefits of arts education alone
-- 
+- How the arts encourage STEM participation
+- The current state of US government support for arts education
+- The call to action/next steps
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPSto8k0=/?moveToViewport=-517,-211,3095,1770&embedId=670417591991" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## User Research
 
