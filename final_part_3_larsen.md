@@ -4,8 +4,8 @@
 Taking the feedback I received for part II into consideration, I wanted to ensure that the final product was easily understandable for both arts practitioners/educations and those who may lean more towards STEM subjects. My goal was to successfully make the information appealing to both sides (in a sort of a meeting of "right brain" and "left brain" folks).
 
 My biggest concern was whether the story had a logical flow to it. I drew out the outline one more time using post-it notes on my wall so I could interact with the ideas in a hands-on way. My goal for doing this was the figure out the setup, problem, and resolution/call to action to resolve the problem. It definitely helped me restructure things and figure out what was important to include, what was more of a supportive element, and what was not important at all in this context.
+![Outline_postits](https://user-images.githubusercontent.com/112141969/195189700-ef191ac1-d932-44a7-92db-d089cdffe0f0.jpg)
 
-(image)
 
 Once I felt confident that this was the story I wanted to tell, and the order in which I wanted to tell it, I began revising the text in order to finalize the narrative. I also found some additional sources and data that supported my message. The issue then became that I had a lot of information and needed to figure out which points were the most critical for understanding the story. I went back to my outline (as seen above) and decided on the data points that would support each story element the most. Whenever I was in doubt about anything, I consulted the outline and asked myself if the data/visualization supported the story. 
 
