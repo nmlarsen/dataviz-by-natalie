@@ -26,4 +26,5 @@ Interesting to dig into a subject I had already been exploring for an article I 
 Humble brag: https://amt-lab.org/blog/2022/9/the-arts-education-for-all-act-a-catalyst-for-steam-education
 
 Links to parts 1 and 2
-
+[Part I]([url](https://nmlarsen.github.io/dataviz-by-natalie/final_part_1_larsen.html))
+[Part II]([url](https://nmlarsen.github.io/dataviz-by-natalie/final_part_2_larsen.html))
