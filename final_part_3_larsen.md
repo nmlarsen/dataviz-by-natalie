@@ -1,6 +1,6 @@
 # Final Project, Part III
 
-## Link to ShortHand page: https://carnegiemellon.shorthandstories.com/a-case-for-steam-education/index.html
+## Link to [ShortHand page]([url](https://carnegiemellon.shorthandstories.com/a-case-for-steam-education/index.html): https://carnegiemellon.shorthandstories.com/a-case-for-steam-education/index.html
 
 ## Changes made
 Taking the feedback I received for part II into consideration, I wanted to ensure that the final product was easily understandable for both arts practitioners/educations and those who may lean more towards STEM subjects. My goal was to successfully make the information appealing to both sides (in a sort of a meeting of "right brain" and "left brain" folks).
