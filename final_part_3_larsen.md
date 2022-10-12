@@ -36,3 +36,82 @@ This final project took a lot of time and effort. But the information and data I
 [Part I]([url](https://nmlarsen.github.io/dataviz-by-natalie/final_part_1_larsen.html))
 
 [Part II]([url](https://nmlarsen.github.io/dataviz-by-natalie/final_part_2_larsen.html))
+
+## Sources Used
+
+1. "Science, Technology, Engineering, and Math, including Computer Science," U.S. Department of Education, accessed October 5, 2022, https://www.ed.gov/stem.
+
+2. Mary Dell’Erba, “Preparing Students for Learning, Work and Life Through STEAM Education,” Arts Education Partnership, September 2019, https://www.ecs.org/wp-content/uploads/Preparing-Students-for-Learning-Work-and-Life-through-STEAM-Education.pdf.
+
+3. "the arts," Encyclopaedia Britannica, accessed October 5, 2022, https://www.britannica.com/topic/the-arts.
+
+4. “Art for Life’s Sake: The Case for Arts Education,” American Academy of Arts & Sciences, 2021, https://www.amacad.org/publication/case-for-arts-education.
+
+5. Mary Dell’Erba, “Preparing Students for Learning, Work and Life Through STEAM Education,” Arts Education Partnership, September 2019.
+
+6. Ibid.
+
+7. “Art for Life’s Sake: The Case for Arts Education,” American Academy of Arts & Sciences, 2021.
+
+8. Ibid.
+
+9. Mariale Hardiman, Luke Rinne and Julia Yarmolinskaya, “The Effects of Arts Integration on Long-Term Retention of Content and Student Engagement,” Mind, Brain and Education 8, no. 3 (2014): 144-148.
+
+10. Serin Ngai, "Painting Over the Arts: How the No Child Left Behind Act Fails to Provide Children with a High-Quality Education," Seattle Journal for Social Justice Volume 4, Issue 2 (2006): 683.
+
+11. "Arts Education Navigator," Americans for the Arts, accessed September 23, 2022, https://www.americansforthearts.org/by-program/networks-and-councils/arts-education-network/tools-resources/getting-started.
+
+12. Serin Ngai, "Painting Over the Arts: How the No Child Left Behind Act Fails to Provide Children with a High-Quality Education," Seattle Journal for Social Justice Volume 4, Issue 2 (2006): 683.
+
+13. Ibid.
+
+14. Ibid.
+
+15. Brian Kisida and Angela LaPorte, “Art for Life’s Sake: The Case for Arts Education,” American Academy for Arts & Sciences, 2021, https://www.amacad.org/sites/default/files/publication/downloads/2021-Art-for-Lifes-Sake.pdf.
+
+16. “Arts Education Navigator, Facts & Figures,” Americans for the Arts, accessed October 5, 2022, https://www.americansforthearts.org/by-program/networks-and-councils/arts-education-network/tools-resources/arts-ed-navigator/facts-figures.
+
+17. Mary Dell’Erba, “Preparing Students for Learning, Work and Life Through STEAM Education,” Arts Education Partnership, September 2019.
+
+18. Ibid.
+
+19. "Research and Policy Implications of STEAM Education for Young Students," Education Commission of the States, April 20, 2022, https://www.ecs.org/research-and-policy-implications-of-steam-education-for-young-students/.
+
+20. Joseph Lathan, PhD, "Why STEAM is so Important to 21st Century Education," University of San Diego Online, accessed September 25, 2022, https://onlinedegrees.sandiego.edu/steam-education-in-schools/.
+
+21. Ibid.
+
+22. “Hard Facts About Soft Skills: An actionable review of employer perspectives, expectations and recommendations,” Wonderlic, 2016, http://docs.wixstatic.com/ugd/cceaf9_ec9ed750296142f18efdd49f4930f6d3.pdf.
+
+23. Brigid O'Rourke, "Growing gap in STEM supply and demand," The Harvard Gazette, November 18, 2021, https://news.harvard.edu/gazette/story/2021/11/increasing-access-and-opportunity-in-stem-crucial-say-experts/.
+
+24. Ibid
+
+25. James S. Catterall, Susan A. Dumais, and Gillian Hampden-Thompson, "The Arts and Achievement in At-Risk Youth: Findings from Four Longitudinal Studies," National Endowment for the Arts, March 2012, https://files.eric.ed.gov/fulltext/ED530822.pdf.
+
+26. "Americans Speak Out About the Arts in 2018: An In-Depth Look at Perceptions and Attitudes About the Arts in America," Americans for the Arts, accessed September 23, 2022, https://www.americansforthearts.org/sites/default/files/Public%20Opinion%20National%202018%20Report.pdf.
+
+27. “Every Student Succeeds Act, Pennsylvania Consolidated State Plan,” Pennsylvania Department of Education, May 31, 2019, https://www2.ed.gov/admins/lead/account/stateplan17/paconsolidatedstateplanfinal.pdf.
+
+28. “Arts Education for All Act,” National Arts Education Association, November 18, 2021, https://www.arteducators.org/advocacy-policy/articles/832-arts-education-for-all-act.
+
+## Images Used
+
+Olga Thelavart on Unsplash
+
+Misael Moreno on Unsplash
+
+laura adai on Unsplash
+
+Jem Sahagun on Unsplash
+
+Hulki Okan Tabak on Unsplash
+
+Rubén Rodriguez on Unsplash
+
+De an Sun on Unsplash
+
+Colin Lloyd on Unsplash
+
+Nick Fewings on Unsplash
+
