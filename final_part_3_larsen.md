@@ -30,8 +30,7 @@ I considered the fact that there were only two Arts Management students in the c
 This final project took a lot of time and effort. But the information and data I uncovered was very interesting to me. I found myself going down several rabbit holes as a result of what I was reading about. It was especially interesting for me to explore this topic after having written a short [article]([url](https://amt-lab.org/blog/2022/9/the-arts-education-for-all-act-a-catalyst-for-steam-education)) (insert link) about it for AMT Lab (humble brag.) I think I ended up going in a slightly different direction with STEAM for this project than in my article. But I hope that it resulted in an interesting presentation and website in the end. 
 
 
-https://amt-lab.org/blog/2022/9/the-arts-education-for-all-act-a-catalyst-for-steam-education
-
 ## Previous parts
 [Part I]([url](https://nmlarsen.github.io/dataviz-by-natalie/final_part_1_larsen.html))
+
 [Part II]([url](https://nmlarsen.github.io/dataviz-by-natalie/final_part_2_larsen.html))
