@@ -9,4 +9,5 @@ After this program, I hope to use data and research to support arts policy, arts
 
 # Portfolio
 
-Critique by Design: Americans for the Arts Graph Redesign
+
+[Critique by Design: Americans for the Arts Graph Redesign ](https://nmlarsen.github.io/dataviz-by-natalie/critique-by-design.html)
