@@ -1,13 +1,15 @@
 # dataviz-by-natalie
-Natalie's portfolio page.
+Welcome to Natalie's Telling Stories with Data portfolio page.
 
 # About me
-Hello! My name is Natalie Larsen (she/her). I'm a second-year MAM student at CMU. I'm a musician-turned-arts manager/advocate.
+Hello! My name is Natalie Larsen (she/her). I'm a second-year MAM student at CMU. I'm a musician-turned-arts manager/advocate. 
 
-# What I hope to learn
+
 After this program, I hope to use data and research to support arts policy, arts and community development efforts and/or consulting work with arts nonprofit organizations. Throughout this class, I want to learn how to effectively communicate data findings through visualization, and be able to identify poorly designed and manipulative visualizations.
 
 # Portfolio
+
+Please explore my various projects below. 
 
 [Exercise: GDP-to-Debt Ratio, 2020](https://nmlarsen.github.io/dataviz-by-natalie/dataviz2.html)
 
@@ -18,3 +20,5 @@ After this program, I hope to use data and research to support arts policy, arts
 [Final Project, Part II](https://nmlarsen.github.io/dataviz-by-natalie/final_part_2_larsen.html)
 
 [Final Project, Part III](https://nmlarsen.github.io/dataviz-by-natalie/final_part_3_larsen.html)
+
+<script src="https://carnegiemellon.shorthandstories.com/a-case-for-steam-education/embed.js"></script>
