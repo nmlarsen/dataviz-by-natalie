@@ -3,7 +3,7 @@ Welcome to Natalie's Telling Stories with Data portfolio page.
 
 # About me
 
-![DSC_0193](https://user-images.githubusercontent.com/112141969/195888242-580b2164-f2ab-468f-8097-3e261ef14818.jpg=227x341)
+![DSC_0193](https://user-images.githubusercontent.com/112141969/195888242-580b2164-f2ab-468f-8097-3e261ef14818.jpg width="227" height="337")
 
 Hello! My name is Natalie Larsen (she/her). I'm a second-year Master of Arts Management student at Carnegie Mellon University. I'm a musician-turned-arts manager/advocate. I'm passionate about conducting research in the arts to advocate for policies that would improve arts funding for independent artists, non-profit arts organizations, arts/STEAM education programs, and arts and cultural policies. By taking this class, I honed my data visualization skills and learned how to more effectively present information.
 
