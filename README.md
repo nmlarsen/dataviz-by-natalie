@@ -2,14 +2,16 @@
 Welcome to Natalie's Telling Stories with Data portfolio page.
 
 # About me
-Hello! My name is Natalie Larsen (she/her). I'm a second-year MAM student at CMU. I'm a musician-turned-arts manager/advocate. 
 
+![DSC_0193](https://user-images.githubusercontent.com/112141969/195888242-580b2164-f2ab-468f-8097-3e261ef14818.jpg)
 
-After this program, I hope to use data and research to support arts policy, arts and community development efforts and/or consulting work with arts nonprofit organizations. Throughout this class, I want to learn how to effectively communicate data findings through visualization, and be able to identify poorly designed and manipulative visualizations.
+Hello! My name is Natalie Larsen (she/her). I'm a second-year Master of Arts Management student at Carnegie Mellon University. I'm a musician-turned-arts manager/advocate. I'm passionate about conducting research in the arts to advocate for policies that would improve arts funding for independent artists, non-profit arts organizations, arts/STEAM education programs, and arts and cultural policies. By taking this class, I honed my data visualization skills and learned how to more effectively present information.
+
+After this program, I hope to use data and research to support arts policy, arts and community development efforts and/or consulting work with arts nonprofit organizations.
 
 # Portfolio
 
-Please explore my various projects below. 
+Please feel free to explore my various projects below. Thank you for taking the time to visit my page!
 
 [Exercise: GDP-to-Debt Ratio, 2020](https://nmlarsen.github.io/dataviz-by-natalie/dataviz2.html)
 
@@ -21,4 +23,4 @@ Please explore my various projects below.
 
 [Final Project, Part III](https://nmlarsen.github.io/dataviz-by-natalie/final_part_3_larsen.html)
 
-<script src="https://carnegiemellon.shorthandstories.com/a-case-for-steam-education/embed.js"></script>
+[Final Project Website on ShortHand](https://carnegiemellon.shorthandstories.com/a-case-for-steam-education/index.html)
