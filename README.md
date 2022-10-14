@@ -9,5 +9,8 @@ After this program, I hope to use data and research to support arts policy, arts
 
 # Portfolio
 
-
+[Exercise: GDP-to-Debt Ratio, 2020](https://nmlarsen.github.io/dataviz-by-natalie/dataviz2.html)
 [Critique by Design: Americans for the Arts Graph Redesign ](https://nmlarsen.github.io/dataviz-by-natalie/critique-by-design.html)
+[Final Project, Part I](https://nmlarsen.github.io/dataviz-by-natalie/final_part_1_larsen.html)
+[Final Project, Part II](https://nmlarsen.github.io/dataviz-by-natalie/final_part_2_larsen.html)
+[Final Project, Part III](https://nmlarsen.github.io/dataviz-by-natalie/final_part_3_larsen.html)
